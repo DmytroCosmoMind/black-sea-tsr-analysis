@@ -17,7 +17,7 @@ Table_S1_Life_history_dataset.xlsx
 5. In the main script, set the working directory (line 24):
    working_dir = "."
    (this should point to the folder containing Table_S1_Life_history_dataset.xlsx)
-6. Run the script tsr_script.
+6. Run the script (tsr_script).
 
 **Outputs:**
 Results/ — CSV summary tables
