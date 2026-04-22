@@ -1,4 +1,4 @@
-# TSR Script (Azov-Black Sea fish life-history analysis)
+# Azov-Black Sea fish life-history analysis
 
 HGAM analysis of temperature-size relationships in marine fishes
 
