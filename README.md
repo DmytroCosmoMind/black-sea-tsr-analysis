@@ -1,6 +1,4 @@
-# Context-dependent temperature-size relationships in marine fishes: evidence from the
-
-Black Sea
+# Context-dependent temperature-size relationships in marine fishes: evidence from the Black Sea
 
 HGAM analysis of temperature-size relationships in marine fishes
 
