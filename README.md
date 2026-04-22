@@ -1,6 +1,6 @@
-# black-sea-tsr-analysis
-HGAM analysis of temperature–size relationships in marine fishes
-# TSR Script (Azov–Black Sea fish life-history analysis)
+# TSR Script (Azov-Black Sea fish life-history analysis)
+
+HGAM analysis of temperature-size relationships in marine fishes
 
 ## What this code does
 
